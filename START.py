@@ -30,16 +30,15 @@ v = "\033[0;34m"
 d = input("\033[0;91myour choise » ")
 print (d)
 k = 0
-
-    m = 201283684615
-    l = 0
-    o = "»"
-    n = ("user&password")
-    time.sleep(2)
-    print("\033[0;31mloding ...")
-    time.sleep(2)
-    while m <= 9999999999999 :
-        l=l+1
-        m=m+12
-        print (z,n,l,o,m)
-        time.sleep(0.1)
+m = 201283684615
+l = 0
+o = "»"
+n = ("user&password")
+time.sleep(2)
+print("\033[0;31mloding ...")
+time.sleep(2)
+while m <= 9999999999999 :
+    l=l+1
+    m=m+12
+    print (z,n,l,o,m)
+    time.sleep(0.1)
