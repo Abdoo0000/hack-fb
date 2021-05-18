@@ -31,10 +31,6 @@ d = input("\033[0;91myour choise » ")
 print (d)
 k = 0
 
-if d !=2 :
-    while k <= 1 :
-        webbrowser.open("https://youtube.com/channel/UCugYk-edxlAeiB7F66Af2Dg")
-else :
     m = 201283684615
     l = 0
     o = "»"
