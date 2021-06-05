@@ -10,7 +10,7 @@ Div By ››› LWES ELTASA HACK
 
 WhatsApp ››› +201283494514
 
-instagrm ››› x_x_abdoo_x_x
+instagrm ››› _0abdoo0_
 
 ''')
 print ('''\033[0;101m 
