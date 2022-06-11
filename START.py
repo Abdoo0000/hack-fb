@@ -6,11 +6,11 @@ import webbrowser
 print ('''\033[0;34m
 FaceBook Hack Script
 
-Div By ››› LWES ELTASA HACK
+Div By ››› spy0x
 
 WhatsApp ››› +201283494514
 
-instagrm ››› _0abdoo0_
+instagrm ›››abdelrahman.fiala
 
 ''')
 print ('''\033[0;101m 
